@@ -26,4 +26,4 @@ Data Loading and Preprocessing: Resizing images, feature extraction, and standar
 Model Training: Using SGDClassifier with logistic loss and regularization.<br>
 Evaluation: Metrics like accuracy, classification report, ROC curve, and confusion matrix.<br>
 GUI: Allows users to upload an image and receive predictions with a graphical interface.<br>
-For more details and to explore the code, please visit the [repository](#).
+For more details and to explore the code, please visit the [repository](https://github.com/soliman-benkhalil/Logistic-Regression-For-Malaria-Cell-Images-Dataset).
