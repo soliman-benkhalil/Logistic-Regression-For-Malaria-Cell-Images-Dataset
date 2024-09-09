@@ -1,10 +1,12 @@
 # Logistic-Regression-For-Malaria-Cell-Images-Dataset
 Model of logistic regression 
 
-Image Classification with HOG Features and SGDClassifier
-In this project, I developed an image classification model using Histogram of Oriented Gradients (HOG) features and a Stochastic Gradient Descent (SGD) Classifier. The model was trained and evaluated on a dataset of cell images. Additionally, I created a user-friendly graphical interface (GUI) for easy predictions.
+# Image Classification with HOG Features and SGDClassifier
+In this project, I developed an image classification model using Histogram of Oriented Gradients (HOG) features and a Stochastic Gradient Descent (SGD) Classifier. 
+The model was trained and evaluated on a dataset of cell images. 
+Additionally, I created a user-friendly graphical interface (GUI) for easy predictions.
 
-Key Features
+# Key Features
 Feature Extraction: Utilized HOG features for robust image representation.
 Classification: Applied SGDClassifier with logistic loss for classification.
 Preprocessing: Standardized features for improved performance.
